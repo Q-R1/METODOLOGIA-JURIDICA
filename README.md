@@ -1,4 +1,4 @@
-# Metodologia-del-Derecho
+# Metodologia-Juridica
 
 La metodología trialista del derecho es una propuesta epistémica del análisis integral del fenómeno jurídico desde tres dimensiones interdependientes: normativa, sociológica y valorativa o dikelógica. Esta perspectiva supera la visión tradicional que se limita al estudio de la norma (dimensión normativa), incorporando el hecho social que da origen al derecho (dimensión sociológica) y los valores de justicia que deben inspirarlo (dimensión dikelológica). Fue desarrollada principalmente por el jurista argentino Werner Goldschmidt.
 
