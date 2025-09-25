@@ -1,7 +1,7 @@
 # Programa del curso
 
 ## Objetivo
-Analizar críticamente los tres ejes fundamentales de la investigación jurídica contemporánea y evaluar su impacto transformador en el contexto de la sociedad tecnológica actual.
+Evaluar la incidencia de la integración del método científico en el trialismo jurídico contemporáneo, en el marco de las transformaciones democráticas y tecnológicas que determinan los modelos de justicia social.
 
 # I. Elementos comunes de la investigación jurídica
 
