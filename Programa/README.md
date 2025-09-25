@@ -1,6 +1,6 @@
 # Programa del curso
 
-# Elementos comunes de la investigación jurídica
+# I. Elementos comunes de las dimensiones de la investigación jurídica
 
 ## 📚 Revisión de literatura
 
