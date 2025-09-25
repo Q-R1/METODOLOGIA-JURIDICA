@@ -12,6 +12,11 @@
 # Objetivo
 Evaluar la incidencia de la integración del método científico en el trialismo jurídico contemporáneo, en el marco de las transformaciones democráticas y tecnológicas que determinan los modelos de justicia social.
 
+📌 Criterios de Evaluación
+Evaluación continua ponderada
+✅ Requisito obligatorio
+📅 80% de Asistencia .
+
 # I. Elementos comunes de la investigación jurídica
 
 ## 📚 Revisión de literatura con apoyo del gestor zotero
