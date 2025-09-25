@@ -31,8 +31,16 @@ Evaluar la incidencia de la integración del método científico en el trialismo
 
 🔍 Método
 
-📊Técnicas de investigación /// asigna otros iconos de acuerdo con su nombre
+📊Técnicas de investigación
 
 
+# III. Sincretismo Jurídico
 
+📊 Procesos del Sincretismo Jurídico
+
+🔀 Combinación
+
+🔄 Integración
+
+🧩 Complementación
 
