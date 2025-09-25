@@ -26,8 +26,11 @@ Evaluar la incidencia de la integración del método científico en el trialismo
 ## ❓ Formulación del problema
 
 # II. Bifurcación de la investigación jurídica
+
 📚 Metodología
+
 🔍 Método
+
 📊Técnicas de investigación /// asigna otros iconos de acuerdo con su nombre
 
 
