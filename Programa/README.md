@@ -41,7 +41,7 @@ Evaluar la incidencia de la integración del método científico en el trialismo
 
 ## 🔄Integración
 
-## 🧩TComplementación
+## 🧩Complementación
 
 
 # 📚 Referencias bibliográficas
