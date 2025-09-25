@@ -27,20 +27,21 @@ Evaluar la incidencia de la integración del método científico en el trialismo
 
 # II. Bifurcación de la investigación jurídica
 
-##📚 Metodología
+## 📚 Metodología
 
-##🔍 Método
+## 🔍 Método
 
-##📊Técnicas de investigación
+## 📊 Técnicas de investigación
 
 
 # III. Sincretismo Jurídico
 
-##📊 Procesos del Sincretismo Jurídico
+## 🔀Combinación
 
-##🔀 Combinación
+## 🔄Integración
 
-##🔄 Integración
+## 🧩TComplementación
 
-##🧩 Complementación
+
+
 
