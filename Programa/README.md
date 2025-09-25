@@ -25,6 +25,7 @@ Evaluar la incidencia de la integración del método científico en el trialismo
 
 ## ❓ Formulación del problema
 
+
 # II. Bifurcación de la investigación jurídica
 
 ## 📚 Metodología
@@ -42,7 +43,9 @@ Evaluar la incidencia de la integración del método científico en el trialismo
 
 ## 🧩TComplementación
 
-#📚 Referencias Bibliográficas
+
+# 📚 Referencias bibliográficas
+
 Arroyo Cisneros, Edgar Alan, Nevárez del Rivero, Joel Ricardo y Contreras Cortéz Luis Fernándo (Coordinadores)., Derechos Humanos y Nuevas Tecnologías. Retos en el constitucionalismo democrático,Colección Tirant lo blanch, 2023. Disponible en https://editorial.tirant.com/mex/libro/derechos-humanos-y-nuevas-tecnologias-retos-en-el-constitucionalismo-democratico-edgar-alan-arroyo-cisneros-9788411479516
 
 Atienza, Manuel, Las razones del derecho: teorías de la argumentación jurídica. Madrid: Centro de Estudios Políticos y Constitucionales, 2003. Disponible en https://www.organojudicial.gob.pa/escuelajudicial/files/2017/06/ATIENZA.-Las-Razones-del-Derecho-Teor%C3%ADas-de-la-Argumentacion-Jur%C3%ADdica.pdf
