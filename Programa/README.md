@@ -32,7 +32,7 @@ Evaluar la incidencia de la integración del método científico en el trialismo
 
 ## 🔍 Método
 
-## 📊 Técnicas de investigación
+## 📊 Técnicas de investigación: Cuestionario en Google Forms y Análisis de datos en Rstudio 
 
 
 # III. Sincretismo Jurídico
