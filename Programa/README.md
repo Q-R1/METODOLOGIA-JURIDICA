@@ -69,6 +69,8 @@ Hernández Montes de Oca, Ricardo. Sistemas de citación y referencias bibliogr�
 
 Hernández Sampieri, Roberto, Carlos Fernández Collado y Pilar Baptista Lucio. Metodología de la investigación. 6ª ed. México: McGraw-Hill, 2014.
 
+Kerliger, Fred, "Investigación del Comportamiento", 4a ed., Traducción Leticia Pineda Ayala y Ignacio Mora Magaña, Santiago, Ed. Interamericana, Disponible en: https://drive.google.com/file/d/1vh3z6fMi1ntCKy7cpCsNR987z7sjjZJ2/view
+
 Marván Laborde, María (Coordinadora). Metodologías de investigación jurídica y fenómenos de relevancia jurídica. México: UNAM, 2022. Disponible en: https://biblio.juridicas.unam.mx/bjv/detalle-libro/7161-metodologias-de-investigacion-juridica-y-fenomenos-de-relevancia-juridica-serie-opiniones-tecnicas-sobre-temas-de-relevancia-nacional-num-60
 
 Observacom. ¿Has experimentado shadowbanning? Encuesta de Observacom sobre moderación de contenidos en redes sociales. Global Freedom of Expression, Columbia University, 13 de marzo de 2025. Disponible en: https://globalfreedomofexpression.columbia.edu/updates/2025/03/has-experimentado-shadowbanning-encuesta-de-observacom/
