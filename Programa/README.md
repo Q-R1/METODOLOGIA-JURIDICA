@@ -10,7 +10,7 @@
   - Sábados: 🕗 9:00 - 14:00 hrs
 
 # Objetivo
-Evaluar la incidencia de la integración del método científico en el trialismo jurídico contemporáneo, en el marco de las transformaciones democráticas y tecnológicas que determinan los modelos de justicia social.
+Reflexionar respecto a la integración del método científico en el trialismo jurídico contemporáneo, en el marco de las transformaciones democráticas y tecnológicas que determinan los modelos de justicia social.
 
 # Criterios de evaluación 
 
@@ -37,18 +37,22 @@ Evaluar la incidencia de la integración del método científico en el trialismo
 
 # III. Sincretismo Jurídico
 
-## 🔀Combinación
+# Estrategias:
 
-## 🔄Integración
+## 🧩Complementar
 
-## 🧩Complementación
+## 🔀Combinar
+
+## 🔄Triangular
+
+
 
 
 # 📚 Referencias bibliográficas
 
 Arroyo Cisneros, Edgar Alan, Nevárez del Rivero, Joel Ricardo y Contreras Cortéz Luis Fernándo (Coordinadores)., Derechos Humanos y Nuevas Tecnologías. Retos en el constitucionalismo democrático,Colección Tirant lo blanch, 2023. Disponible en https://editorial.tirant.com/mex/libro/derechos-humanos-y-nuevas-tecnologias-retos-en-el-constitucionalismo-democratico-edgar-alan-arroyo-cisneros-9788411479516
 
-Atienza, Manuel, Las razones del derecho: teorías de la argumentación jurídica. Madrid: Centro de Estudios Políticos y Constitucionales, 2003. Disponible en https://www.organojudicial.gob.pa/escuelajudicial/files/2017/06/ATIENZA.-Las-Razones-del-Derecho-Teor%C3%ADas-de-la-Argumentacion-Jur%C3%ADdica.pdf
+Bericat Aluestey, Eduardo, La integración de los métodos cuantitativo y cualitativo en la investigación social, Significado y medida, Barcelona, Ed. Ariel, 1998.  
 
 Botero Marino, Catalina, Entrevista por José Antonio Montenegro, Globo Economía, CNN, 25 de febrero de 2025. Disponible en https://cnnespanol.cnn.com/2025/02/25/ciencia/video/analisis-internet-redes-sociales-regulaciones-crecimiento-globoeconomia-tv
 
@@ -56,11 +60,7 @@ Comisión Interamericana de Derechos Humanos (CIDH), Informe Anual de la Comisi�
 
 Dejusticia, Intervención en dos casos ante la Corte Constitucional sobre la aplicación CoronApp, 2024. Disponible en https://www.dejusticia.org/litigation/intervinimos-en-dos-casos-ante-la-corte-constitucional-relacionados-con-la-aplicacion-coronapp/
 
-Real Academia Española *et al., Diccionario Panhispánico del Español Jurídico, disponible en https://dpej.rae.es/
-
-Real Academia Española, Diccionario de la lengua española, 23.ª ed., [versión 23.8 en línea]. https://dle.rae.es
-
-Fix-Zamudio, Héctor, Metodología, docencia e investigación jurídicas. México, Porrúa, 2001.
+Goldschmidt, Werner, Introducción a la Filosofía del Derecho. La Teoría Trialistica del Mundo Jurídico y sus Horizontes, 6a ed. Buenos Aires, Ed. De Palma, 1980. 
 
 Global Freedom of Expression, Columbia University, Base de datos de casos sobre libertad de expresión, Disponible en https://globalfreedomofexpression.columbia.edu/cases/
 
@@ -75,6 +75,10 @@ Marván Laborde, María (Coordinadora), Metodologías de investigación jurídic
 Observacom, ¿Has experimentado shadowbanning? Encuesta de Observacom sobre moderación de contenidos en redes sociales. Global Freedom of Expression, Columbia University, 13 de marzo de 2025. Disponible en https://globalfreedomofexpression.columbia.edu/updates/2025/03/has-experimentado-shadowbanning-encuesta-de-observacom/
 
 Pérez-Liñán, Aníbal (director del Instituto Kellogg de Estudios Internacionales y profesor de la Universidad de Notre Dame), Entrevista por José Antonio Montenegro, Globo Economía, CNN, 7 de julio de 2025. Disponible en https://cnnespanol.cnn.com/2025/07/07/video/video/economia-estado-derecho-ley-democracia-globoeconomia-tv
+
+Real Academia Española, Diccionario panhispánico del español jurídico, consultado el 25 de septiembre de 2025, https://dpej.rae.es/.
+
+Real Academia Española, Diccionario de la lengua española, 23.ª ed., [versión 23.8 en línea], consultado el 25 de septiembre de 2025, https://dle.rae.es
 
 Vázquez Valencia, Luis Daniel. "¿Cuál es la verdadera metodología de los derechos humanos?" Andares: Revista de Derechos Humanos y de la Naturaleza 8 (2025): 5-23. https://doi.org/10.32719/29536782.2025.8.1.
 
