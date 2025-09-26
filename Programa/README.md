@@ -10,7 +10,8 @@
   - Sábados: 🕗 9:00 - 14:00 hrs
 
 # Objetivo
-Reflexionar respecto a la integración del método científico en el trialismo jurídico contemporáneo, en el marco de las transformaciones democráticas y tecnológicas que determinan los modelos de justicia social.
+
+Conocer y desarrollar el método científico en el trialismo jurídico reflexivo y necesario frente a las transformaciones democráticas y tecnológicas que caracterizan los modelos contemporáneos de justicia social.
 
 # Criterios de evaluación 
 
