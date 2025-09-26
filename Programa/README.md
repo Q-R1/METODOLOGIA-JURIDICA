@@ -17,21 +17,20 @@ Reflexionar respecto a la integración del método científico en el trialismo j
 - Evaluación continua ponderada ✅
 - Requisito obligatorio 📅 80% de Asistencia
 
-# I. Elementos comunes de la investigación jurídica
+# I. Elementos comunes de la investigación tridimensional del derecho
 
-## 📚 Revisión de literatura con apoyo del gestor zotero
+## 📚 Revisión bibliográfica mediante el gestor de citas y referencias Zotero
 
 ## 🔍 Planteamiento del problema
 
 ## ❓ Formulación del problema
 
+# II. Elementos divergentes de la investigación tridimensional del derecho
 
-# II. Bifurcación de la investigación jurídica
-
+## 📚 Método 
+ 
 ## 📚 Metodología
-
-## 🔍 Método
-
+ 
 ## 📊 Técnicas de investigación: Cuestionario en Google Forms y Análisis de datos en Rstudio 
 
 
