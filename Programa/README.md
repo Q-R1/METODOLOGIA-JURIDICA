@@ -53,11 +53,15 @@ Bericat Aluestey, Eduardo. La integración de los métodos cuantitativo y cualit
 
 Botero Marino, Catalina. Entrevista por José Antonio Montenegro. Globo Economía, CNN, 25 de febrero de 2025. Disponible en: https://cnnespanol.cnn.com/2025/02/25/ciencia/video/analisis-internet-redes-sociales-regulaciones-crecimiento-globoeconomia-tv/
 
+Chalmers, Álan, ¿Qué es esa cosa llamada Ciencia?, Madrid, Ed. Siglo XXI, 3a ed., 2000. Disponible en: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fcen.uncuyo.edu.ar/upload/2000-chalmers-que-es-esa-cosa-llamada-ciencia-3ed.pdf
+
 Comisión Interamericana de Derechos Humanos (CIDH). Informe Anual de la Comisión Interamericana de Derechos Humanos 2024. Organización de los Estados Americanos (OEA), 2024. Disponible en: https://www.oas.org/es/CIDH/informes/IA.asp?Year=2024
 
 Dejusticia. Intervención en dos casos ante la Corte Constitucional sobre la aplicación CoronApp, 2024. Disponible en: https://www.dejusticia.org/litigation/intervinimos-en-dos-casos-ante-la-corte-constitucional-relacionados-con-la-aplicacion-coronapp/
 
-Del Rincón, Delio, et al. Técnicas de Investigación en Ciencias Sociales. Madrid: Ed. Dykinson, 1995.
+Del Rincón, Delio, et al. Técnicas de Investigación en Ciencias Sociales, Madrid, Ed. Dykinson, 1995.
+
+Feyerabend, Paul, Tratado Contra el Método, Esquema de una Teoría Anarquista del Conocimiento, Madrid, Ed. Gama, 1986.  Disponible en : chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://posgrado.unam.mx/musica/lecturas/LecturaIntroduccionInvestigacionMusical/epistemologia/Paul-Feyerabend-Tratado-contra-el-metodo.pdf
 
 Global Freedom of Expression, Columbia University. Base de datos de casos sobre libertad de expresión. Disponible en: https://globalfreedomofexpression.columbia.edu/cases/
 
@@ -68,6 +72,8 @@ González Ibarra, Juan de Dios. Epistemología jurídica. México: Porrúa, 2001
 Hernández Montes de Oca, Ricardo. Sistemas de citación y referencias bibliográficas para el ámbito jurídico. Manual. México: UNAM, Instituto de Investigaciones Jurídicas (IIJ), 2021. Disponible en: https://archivos.juridicas.unam.mx/www/bjv/libros/15/7079/1.pdf
 
 Hernández Sampieri, Roberto, Carlos Fernández Collado y Pilar Baptista Lucio. Metodología de la investigación. 6ª ed. México: McGraw-Hill, 2014.
+
+ Hessen, Johannes, Teoría del Conocimiento, Traducción de José Gaos, México, Ed. Ariel,1995. Disponible en:  chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://trabajosocialucen.wordpress.com/wp-content/uploads/2012/05/hessen_johannes-_teoria_del_conocimiento_pdf-1.pdf
 
 Kerliger, Fred, "Investigación del Comportamiento", 4a ed., Traducción Leticia Pineda Ayala y Ignacio Mora Magaña, Santiago, Ed. Interamericana, Disponible en: https://drive.google.com/file/d/1vh3z6fMi1ntCKy7cpCsNR987z7sjjZJ2/view
 
