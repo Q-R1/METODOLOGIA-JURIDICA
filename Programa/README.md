@@ -17,7 +17,7 @@ Reflexionar respecto a la integración del método científico en el trialismo j
 - Evaluación continua ponderada ✅
 - Requisito obligatorio 📅 80% de Asistencia
 
-# I. Elementos comunes de la investigación tridimensional del derecho
+# I. Elementos comunes de la investigación jurídica desde un enfoque tridimensional
 
 ## 📚 Revisión bibliográfica mediante el gestor de citas y referencias Zotero
 
@@ -25,7 +25,7 @@ Reflexionar respecto a la integración del método científico en el trialismo j
 
 ## ❓ Formulación del problema
 
-# II. Elementos divergentes de la investigación tridimensional del derecho
+# II. Elementos divergentes de la investigación jurídica
 
 ## 📚 Método 
  
@@ -53,7 +53,7 @@ Bericat Aluestey, Eduardo. La integración de los métodos cuantitativo y cualit
 
 Botero Marino, Catalina. Entrevista por José Antonio Montenegro. Globo Economía, CNN, 25 de febrero de 2025. Disponible en: https://cnnespanol.cnn.com/2025/02/25/ciencia/video/analisis-internet-redes-sociales-regulaciones-crecimiento-globoeconomia-tv/
 
-Chalmers, Álan, ¿Qué es esa cosa llamada Ciencia?, Madrid, Ed. Siglo XXI, 3a ed., 2000. Disponible en: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fcen.uncuyo.edu.ar/upload/2000-chalmers-que-es-esa-cosa-llamada-ciencia-3ed.pdf
+Chalmers, Alan, ¿Qué es esa cosa llamada Ciencia?, Madrid, Ed. Siglo XXI, 3a ed., 2000. Disponible en: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fcen.uncuyo.edu.ar/upload/2000-chalmers-que-es-esa-cosa-llamada-ciencia-3ed.pdf
 
 Comisión Interamericana de Derechos Humanos (CIDH). Informe Anual de la Comisión Interamericana de Derechos Humanos 2024. Organización de los Estados Americanos (OEA), 2024. Disponible en: https://www.oas.org/es/CIDH/informes/IA.asp?Year=2024
 
