@@ -39,12 +39,13 @@ Conocer y desarrollar el método científico en el trialismo jurídico reflexivo
 
 # Estrategias:
 
-## 🧩Complementar
+## Combinaciones de Investigación Cualitativa y Cuantitativa
 
-## 🔀Combinar
 
-## 🔄Triangular
-
+🧩 **QL → qt** 
+🔀 **ql → QT** 
+🔀 **qt → QL**  
+🧩 **QT → ql** 
 
 # 📚 Referencias bibliográficas
 
