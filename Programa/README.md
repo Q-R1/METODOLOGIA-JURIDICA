@@ -39,7 +39,7 @@ Conocer y desarrollar el método científico en el trialismo jurídico reflexivo
 
 # Estrategias:
 
-## Combinaciones de Investigación Cualitativa y Cuantitativa
+## Combinaciones de Investigación Cualitativa y Cuantitativa (Morgan, 1998)
 
 
 🧩 **QL → qt** 
