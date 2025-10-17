@@ -43,8 +43,11 @@ Conocer y desarrollar el método científico en el trialismo jurídico reflexivo
 
 
 🧩 **QL → qt** 
+
 🔀 **ql → QT** 
+
 🔀 **qt → QL**  
+
 🧩 **QT → ql** 
 
 # 📚 Referencias bibliográficas
